@@ -2,23 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-06-10T11:51:39 IST" name="Amazon Automation Suite" finished-at="2026-06-10T11:52:05 IST" duration-ms="26300">
+  <suite started-at="2026-06-10T17:16:59 IST" name="Amazon Automation Suite" finished-at="2026-06-10T17:17:28 IST" duration-ms="28178">
     <groups>
     </groups>
-    <test started-at="2026-06-10T11:51:39 IST" name="Amazon Cart Tests" finished-at="2026-06-10T11:52:05 IST" duration-ms="26300">
+    <test started-at="2026-06-10T17:16:59 IST" name="Amazon Cart Tests" finished-at="2026-06-10T17:17:28 IST" duration-ms="28178">
       <class name="com.amazon.tests.AmazonCartTest">
-        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381]" started-at="2026-06-10T11:51:39 IST" name="setUp" finished-at="2026-06-10T11:51:49 IST" duration-ms="9525" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void com.amazon.tests.AmazonCartTest.testAddIphoneToCart()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381]" started-at="2026-06-10T11:51:39 IST" name="setUp" finished-at="2026-06-10T11:51:48 IST" duration-ms="9297" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381]" started-at="2026-06-10T17:17:00 IST" name="setUp" finished-at="2026-06-10T17:17:13 IST" duration-ms="13728" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,30 +18,41 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testAddGalaxyToCart()[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381]" started-at="2026-06-10T11:51:48 IST" name="testAddGalaxyToCart" description="Search Galaxy, add to cart, verify price" finished-at="2026-06-10T11:52:04 IST" duration-ms="15987" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAddGalaxyToCart -->
-        <test-method signature="testAddIphoneToCart()[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381]" started-at="2026-06-10T11:51:49 IST" name="testAddIphoneToCart" description="Search iPhone, add to cart, verify price" finished-at="2026-06-10T11:52:05 IST" duration-ms="16074" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAddIphoneToCart -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381]" started-at="2026-06-10T11:52:04 IST" name="tearDown" finished-at="2026-06-10T11:52:05 IST" duration-ms="959" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381]" started-at="2026-06-10T17:17:00 IST" name="setUp" finished-at="2026-06-10T17:17:13 IST" duration-ms="13728" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=testAddGalaxyToCart status=SUCCESS method=AmazonCartTest.testAddGalaxyToCart()[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381] output={null}]]]>
+                <![CDATA[public void com.amazon.tests.AmazonCartTest.testAddIphoneToCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddGalaxyToCart()[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381]" started-at="2026-06-10T17:17:13 IST" name="testAddGalaxyToCart" description="Search Galaxy, add to cart, verify price" finished-at="2026-06-10T17:17:27 IST" duration-ms="14101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddGalaxyToCart -->
+        <test-method signature="testAddIphoneToCart()[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381]" started-at="2026-06-10T17:17:13 IST" name="testAddIphoneToCart" description="Search iPhone, add to cart, verify price" finished-at="2026-06-10T17:17:27 IST" duration-ms="13413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddIphoneToCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381]" started-at="2026-06-10T17:17:27 IST" name="tearDown" finished-at="2026-06-10T17:17:27 IST" duration-ms="744" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAddIphoneToCart status=SUCCESS method=AmazonCartTest.testAddIphoneToCart()[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381]" started-at="2026-06-10T11:52:05 IST" name="tearDown" finished-at="2026-06-10T11:52:05 IST" duration-ms="645" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381]" started-at="2026-06-10T17:17:27 IST" name="tearDown" finished-at="2026-06-10T17:17:28 IST" duration-ms="299" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=testAddIphoneToCart status=SUCCESS method=AmazonCartTest.testAddIphoneToCart()[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381] output={null}]]]>
+                <![CDATA[[TestResult name=testAddGalaxyToCart status=SUCCESS method=AmazonCartTest.testAddGalaxyToCart()[pri:0, instance:com.amazon.tests.AmazonCartTest@79207381] output={null}]]]>
               </value>
             </param>
           </params>
