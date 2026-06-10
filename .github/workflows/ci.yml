@@ -45,6 +45,7 @@ jobs:
 
       # ── Step 5: Run Tests ────────────────────────────────────────
       - name: Run Selenium Tests
+        timeout-minutes: 20
         run: mvn clean test
 
       # ── Step 6: Upload Extent Report ────────────────────────────

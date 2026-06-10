@@ -54,18 +54,26 @@ public class DriverUtils {
 
         ChromeOptions options = new ChromeOptions();
 
+        // ── Headless + server flags ──────────────────────────────────
         options.addArguments("--headless=new");
         options.addArguments("--window-size=1920,1080");
         options.addArguments("--disable-gpu");
-
-        options.addArguments("--start-maximized");
-        options.addArguments("--disable-notifications");
-        options.addArguments("--disable-popup-blocking");
         options.addArguments("--no-sandbox");
         options.addArguments("--disable-dev-shm-usage");
+        options.addArguments("--disable-notifications");
+        options.addArguments("--disable-popup-blocking");
+        options.addArguments("--remote-debugging-port=0");
+
+        // ── Don't wait for full page load, fire as soon as DOM is ready ──
+        options.setPageLoadStrategy(PageLoadStrategy.EAGER);
 
         WebDriver driver = new ChromeDriver(options);
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(TIMEOUT));
+
+        // ── Give amazon.in enough time to load on CI ─────────────────
+        driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(90));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 
         tlDriver.set(driver);
         tlWait.set(wait);
