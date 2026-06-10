@@ -1,0 +1,5 @@
+com\amazon\pages\AmazonPage.class
+com\amazon\tests\BaseTest.class
+com\amazon\utils\DriverUtils.class
+com\amazon\reports\ReportManager.class
+com\amazon\tests\AmazonCartTest.class

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Amazon Automation Suite" verbose="2" parallel="methods" thread-count="2">
+
+    <test name="Amazon Cart Tests">
+        <classes>
+            <class name="com.amazon.tests.AmazonCartTest"/>
+        </classes>
+    </test>
+
+</suite>

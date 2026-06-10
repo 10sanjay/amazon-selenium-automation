@@ -1,0 +1,404 @@
+2026-06-10 11:13:13.592 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+2026-06-10 11:13:13.961 [main] INFO  com.amazon.utils.DriverUtils - Initializing ChromeDriver...
+2026-06-10 11:13:17.269 [main] INFO  com.amazon.utils.DriverUtils - ChromeDriver ready.
+2026-06-10 11:13:17.349 [main] INFO  com.amazon.pages.AmazonPage - === Starting flow for keyword: 'iPhone' ===
+2026-06-10 11:13:17.350 [main] INFO  com.amazon.utils.DriverUtils - [Navigate] -> https://www.amazon.com
+2026-06-10 11:13:18.886 [main] INFO  com.amazon.pages.AmazonPage - Typing 'iPhone' in search box
+2026-06-10 11:13:18.887 [main] INFO  com.amazon.utils.DriverUtils - [Type] 'iPhone' -> By.xpath: //input[@id='twotabsearchtextbox']
+2026-06-10 11:13:21.313 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:13:23.702 [main] INFO  com.amazon.pages.AmazonPage - Clicking first product matching keyword 'iPhone'
+2026-06-10 11:13:23.702 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: (//a[contains(., 'iPhone') and contains(., 'Mobile')])[1]
+2026-06-10 11:13:26.565 [main] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:13:26.566 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:13:47.913 [main] INFO  com.amazon.utils.DriverUtils - [Screenshot] Saved: screenshots/testAddIphoneToCart_20260610_111347.png
+2026-06-10 11:13:47.917 [main] INFO  com.amazon.utils.DriverUtils - Quitting driver.
+2026-06-10 11:14:10.361 [main] INFO  com.amazon.utils.DriverUtils - Initializing ChromeDriver...
+2026-06-10 11:14:13.553 [main] INFO  com.amazon.utils.DriverUtils - ChromeDriver ready.
+2026-06-10 11:14:13.559 [main] INFO  com.amazon.pages.AmazonPage - === Starting flow for keyword: 'iPhone' ===
+2026-06-10 11:14:13.562 [main] INFO  com.amazon.utils.DriverUtils - [Navigate] -> https://www.amazon.com
+2026-06-10 11:14:14.863 [main] INFO  com.amazon.pages.AmazonPage - Typing 'iPhone' in search box
+2026-06-10 11:14:14.864 [main] INFO  com.amazon.utils.DriverUtils - [Type] 'iPhone' -> By.xpath: //input[@id='twotabsearchtextbox']
+2026-06-10 11:14:17.504 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:14:18.006 [main] INFO  com.amazon.pages.AmazonPage - Clicking first product matching keyword 'iPhone'
+2026-06-10 11:14:18.007 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: (//a[contains(., 'iPhone') and contains(., 'Mobile')])[1]
+2026-06-10 11:14:38.462 [main] INFO  com.amazon.utils.DriverUtils - [Screenshot] Saved: screenshots/testAddIphoneToCart_20260610_111438.png
+2026-06-10 11:14:38.468 [main] INFO  com.amazon.utils.DriverUtils - Quitting driver.
+2026-06-10 11:16:51.183 [main] INFO  com.amazon.utils.DriverUtils - Initializing ChromeDriver...
+2026-06-10 11:16:54.746 [main] INFO  com.amazon.utils.DriverUtils - ChromeDriver ready.
+2026-06-10 11:16:54.754 [main] INFO  com.amazon.pages.AmazonPage - === Starting flow for keyword: 'iPhone' ===
+2026-06-10 11:16:54.757 [main] INFO  com.amazon.utils.DriverUtils - [Navigate] -> https://www.amazon.com
+2026-06-10 11:16:56.259 [main] INFO  com.amazon.pages.AmazonPage - Typing 'iPhone' in search box
+2026-06-10 11:16:56.259 [main] INFO  com.amazon.utils.DriverUtils - [Type] 'iPhone' -> By.xpath: //input[@id='twotabsearchtextbox']
+2026-06-10 11:16:58.922 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:16:59.458 [main] INFO  com.amazon.pages.AmazonPage - Clicking first product matching keyword 'iPhone'
+2026-06-10 11:16:59.459 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: (//a[contains(., 'iPhone') and contains(., 'Mobile')])[1]
+2026-06-10 11:17:04.192 [main] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:17:04.192 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:17:26.653 [main] INFO  com.amazon.utils.DriverUtils - [Screenshot] Saved: screenshots/testAddIphoneToCart_20260610_111726.png
+2026-06-10 11:17:26.658 [main] INFO  com.amazon.utils.DriverUtils - Quitting driver.
+2026-06-10 11:18:33.210 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+2026-06-10 11:18:33.657 [main] INFO  com.amazon.utils.DriverUtils - Initializing ChromeDriver...
+2026-06-10 11:18:37.277 [main] INFO  com.amazon.utils.DriverUtils - ChromeDriver ready.
+2026-06-10 11:18:37.365 [main] INFO  com.amazon.pages.AmazonPage - === Starting flow for keyword: 'Galaxy' ===
+2026-06-10 11:18:37.365 [main] INFO  com.amazon.utils.DriverUtils - [Navigate] -> https://www.amazon.com
+2026-06-10 11:18:38.725 [main] INFO  com.amazon.pages.AmazonPage - Typing 'Galaxy' in search box
+2026-06-10 11:18:38.725 [main] INFO  com.amazon.utils.DriverUtils - [Type] 'Galaxy' -> By.xpath: //input[@id='twotabsearchtextbox']
+2026-06-10 11:18:41.370 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:18:44.083 [main] INFO  com.amazon.pages.AmazonPage - Clicking first product matching keyword 'Galaxy'
+2026-06-10 11:18:44.083 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: (//a[contains(., 'Galaxy') and contains(., 'Mobile')])[1]
+2026-06-10 11:19:04.424 [main] INFO  com.amazon.utils.DriverUtils - [Screenshot] Saved: screenshots/testAddGalaxyToCart_20260610_111904.png
+2026-06-10 11:19:04.429 [main] INFO  com.amazon.utils.DriverUtils - Quitting driver.
+2026-06-10 11:20:15.362 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+2026-06-10 11:20:15.736 [main] INFO  com.amazon.utils.DriverUtils - Initializing ChromeDriver...
+2026-06-10 11:20:19.115 [main] INFO  com.amazon.utils.DriverUtils - ChromeDriver ready.
+2026-06-10 11:20:19.190 [main] INFO  com.amazon.pages.AmazonPage - === Starting flow for keyword: 'iPhone' ===
+2026-06-10 11:20:19.190 [main] INFO  com.amazon.utils.DriverUtils - [Navigate] -> https://www.amazon.com
+2026-06-10 11:20:20.675 [main] INFO  com.amazon.pages.AmazonPage - Typing 'iPhone' in search box
+2026-06-10 11:20:20.676 [main] INFO  com.amazon.utils.DriverUtils - [Type] 'iPhone' -> By.xpath: //input[@id='twotabsearchtextbox']
+2026-06-10 11:20:24.743 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:20:25.390 [main] INFO  com.amazon.pages.AmazonPage - Clicking first product matching keyword 'iPhone'
+2026-06-10 11:20:25.391 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: (//a[contains(., 'iPhone') and contains(., 'Mobile')])[1]
+2026-06-10 11:20:45.836 [main] INFO  com.amazon.utils.DriverUtils - [Screenshot] Saved: screenshots/testAddIphoneToCart_20260610_112045.png
+2026-06-10 11:20:45.841 [main] INFO  com.amazon.utils.DriverUtils - Quitting driver.
+2026-06-10 11:25:44.426 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+2026-06-10 11:25:44.823 [main] INFO  com.amazon.utils.DriverUtils - Initializing ChromeDriver...
+2026-06-10 11:25:48.433 [main] INFO  com.amazon.utils.DriverUtils - ChromeDriver ready.
+2026-06-10 11:25:48.527 [main] INFO  com.amazon.pages.AmazonPage - === Starting flow for keyword: 'iPhone' ===
+2026-06-10 11:25:48.527 [main] INFO  com.amazon.utils.DriverUtils - [Navigate] -> https://www.amazon.in
+2026-06-10 11:25:49.711 [main] INFO  com.amazon.pages.AmazonPage - Typing 'iPhone' in search box
+2026-06-10 11:25:49.711 [main] INFO  com.amazon.utils.DriverUtils - [Type] 'iPhone' -> By.xpath: //input[@id='twotabsearchtextbox']
+2026-06-10 11:25:52.899 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:25:55.600 [main] INFO  com.amazon.pages.AmazonPage - Clicking first product matching keyword 'iPhone'
+2026-06-10 11:25:55.601 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: (//a[contains(., 'iPhone') and contains(., 'Mobile')])[1]
+2026-06-10 11:25:55.816 [main] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:25:55.816 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:26:16.048 [main] INFO  com.amazon.utils.DriverUtils - [Screenshot] Saved: screenshots/testAddIphoneToCart_20260610_112615.png
+2026-06-10 11:26:16.052 [main] INFO  com.amazon.utils.DriverUtils - Quitting driver.
+2026-06-10 11:29:01.896 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+2026-06-10 11:29:02.252 [main] INFO  com.amazon.utils.DriverUtils - Initializing ChromeDriver...
+2026-06-10 11:29:05.467 [main] INFO  com.amazon.utils.DriverUtils - ChromeDriver ready.
+2026-06-10 11:29:05.531 [main] INFO  com.amazon.pages.AmazonPage - === Starting flow for keyword: 'iPhone' ===
+2026-06-10 11:29:05.531 [main] INFO  com.amazon.utils.DriverUtils - [Navigate] -> https://www.amazon.in
+2026-06-10 11:29:07.118 [main] INFO  com.amazon.pages.AmazonPage - Typing 'iPhone' in search box
+2026-06-10 11:29:07.118 [main] INFO  com.amazon.utils.DriverUtils - [Type] 'iPhone' -> By.xpath: //input[@id='twotabsearchtextbox']
+2026-06-10 11:29:09.677 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:29:12.358 [main] INFO  com.amazon.pages.AmazonPage - Clicking first product matching keyword 'iPhone'
+2026-06-10 11:29:12.358 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: (//a[contains(., 'iPhone') and contains(., 'Mobile')])[1]
+2026-06-10 11:29:12.701 [main] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:29:12.701 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:29:33.388 [main] INFO  com.amazon.utils.DriverUtils - [Screenshot] Saved: screenshots/testAddIphoneToCart_20260610_112933.png
+2026-06-10 11:29:33.392 [main] INFO  com.amazon.utils.DriverUtils - Quitting driver.
+2026-06-10 11:38:31.117 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+2026-06-10 11:38:31.534 [main] INFO  com.amazon.utils.DriverUtils - Initializing ChromeDriver...
+2026-06-10 11:38:52.020 [main] INFO  com.amazon.utils.DriverUtils - ChromeDriver ready.
+2026-06-10 11:38:52.060 [main] INFO  com.amazon.pages.AmazonPage - === Flow START  |  keyword: 'iPhone' ===
+2026-06-10 11:38:52.060 [main] INFO  com.amazon.utils.DriverUtils - [Navigate] -> https://www.amazon.in
+2026-06-10 11:38:53.776 [main] INFO  com.amazon.pages.AmazonPage - Typing 'iPhone' into search box
+2026-06-10 11:38:53.776 [main] INFO  com.amazon.utils.DriverUtils - [Type] 'iPhone' -> By.xpath: //input[@id='twotabsearchtextbox']
+2026-06-10 11:38:56.701 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:38:59.353 [main] INFO  com.amazon.pages.AmazonPage - Clicking first product for keyword 'iPhone'
+2026-06-10 11:38:59.354 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: (//a[contains(., 'iPhone') and contains(., 'Mobile')])[1]
+2026-06-10 11:38:59.696 [main] INFO  com.amazon.pages.AmazonPage - Switching to child (product) window
+2026-06-10 11:38:59.698 [main] INFO  com.amazon.utils.DriverUtils - [Window] Parent window saved: 0CA3409BB685DEE3A0757240D9CABCA7
+2026-06-10 11:38:59.726 [main] INFO  com.amazon.utils.DriverUtils - [Window] Switched to child window: 0D232DFE4C01B51A00C400EEACEF8CA9
+2026-06-10 11:38:59.726 [main] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:38:59.726 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:39:07.865 [main] INFO  com.amazon.pages.AmazonPage - Fetching cart subtotal price
+2026-06-10 11:39:07.865 [main] INFO  com.amazon.utils.DriverUtils - [GetText] -> By.xpath: //*[@id='sw-subtotal']
+2026-06-10 11:39:07.915 [main] INFO  com.amazon.pages.AmazonPage - >>> Price for 'iPhone' = Cart subtotal:  
+₹89,900
+00
+2026-06-10 11:39:07.916 [main] INFO  com.amazon.pages.AmazonPage - Closing child window and returning to parent
+2026-06-10 11:39:07.990 [main] INFO  com.amazon.utils.DriverUtils - [Window] Closed child window: 0D232DFE4C01B51A00C400EEACEF8CA9
+2026-06-10 11:39:07.995 [main] INFO  com.amazon.utils.DriverUtils - [Window] Switched back to parent: 0CA3409BB685DEE3A0757240D9CABCA7
+2026-06-10 11:39:07.996 [main] INFO  com.amazon.pages.AmazonPage - === Flow END  |  keyword: 'iPhone' ===
+2026-06-10 11:39:08.278 [main] INFO  com.amazon.utils.DriverUtils - [Screenshot] Saved: screenshots/testAddIphoneToCart_20260610_113908.png
+2026-06-10 11:39:08.282 [main] INFO  com.amazon.utils.DriverUtils - Quitting driver.
+2026-06-10 11:39:33.681 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+2026-06-10 11:39:34.063 [main] INFO  com.amazon.utils.DriverUtils - Initializing ChromeDriver...
+2026-06-10 11:39:41.634 [main] INFO  com.amazon.utils.DriverUtils - ChromeDriver ready.
+2026-06-10 11:39:41.734 [main] INFO  com.amazon.pages.AmazonPage - === Flow START  |  keyword: 'Galaxy' ===
+2026-06-10 11:39:41.734 [main] INFO  com.amazon.utils.DriverUtils - [Navigate] -> https://www.amazon.in
+2026-06-10 11:39:43.726 [main] INFO  com.amazon.pages.AmazonPage - Typing 'Galaxy' into search box
+2026-06-10 11:39:43.726 [main] INFO  com.amazon.utils.DriverUtils - [Type] 'Galaxy' -> By.xpath: //input[@id='twotabsearchtextbox']
+2026-06-10 11:39:54.767 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:39:57.626 [main] INFO  com.amazon.pages.AmazonPage - Clicking first product for keyword 'Galaxy'
+2026-06-10 11:39:57.627 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: (//a[contains(., 'Galaxy') and contains(., 'Mobile')])[1]
+2026-06-10 11:39:58.158 [main] INFO  com.amazon.pages.AmazonPage - Switching to child (product) window
+2026-06-10 11:39:58.161 [main] INFO  com.amazon.utils.DriverUtils - [Window] Parent window saved: 3B9F717A7F1D165E0A7F69D6E5DF8DA7
+2026-06-10 11:39:58.190 [main] INFO  com.amazon.utils.DriverUtils - [Window] Switched to child window: 2716C4E06668C44A18560AC3B8CE75A3
+2026-06-10 11:39:58.190 [main] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:39:58.190 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:40:04.613 [main] INFO  com.amazon.pages.AmazonPage - Fetching cart subtotal price
+2026-06-10 11:40:04.613 [main] INFO  com.amazon.utils.DriverUtils - [GetText] -> By.xpath: //*[@id='sw-subtotal']
+2026-06-10 11:40:04.718 [main] INFO  com.amazon.pages.AmazonPage - >>> Price for 'Galaxy' = Cart subtotal:  
+₹10,499
+00
+2026-06-10 11:40:04.719 [main] INFO  com.amazon.pages.AmazonPage - Closing child window and returning to parent
+2026-06-10 11:40:04.802 [main] INFO  com.amazon.utils.DriverUtils - [Window] Closed child window: 2716C4E06668C44A18560AC3B8CE75A3
+2026-06-10 11:40:04.808 [main] INFO  com.amazon.utils.DriverUtils - [Window] Switched back to parent: 3B9F717A7F1D165E0A7F69D6E5DF8DA7
+2026-06-10 11:40:04.809 [main] INFO  com.amazon.pages.AmazonPage - === Flow END  |  keyword: 'Galaxy' ===
+2026-06-10 11:40:05.119 [main] INFO  com.amazon.utils.DriverUtils - [Screenshot] Saved: screenshots/testAddGalaxyToCart_20260610_114004.png
+2026-06-10 11:40:05.123 [main] INFO  com.amazon.utils.DriverUtils - Quitting driver.
+2026-06-10 11:41:00.866 [main] INFO  com.amazon.utils.DriverUtils - Initializing ChromeDriver...
+2026-06-10 11:41:07.474 [main] INFO  com.amazon.utils.DriverUtils - ChromeDriver ready.
+2026-06-10 11:41:07.481 [main] INFO  com.amazon.pages.AmazonPage - === Flow START  |  keyword: 'Galaxy' ===
+2026-06-10 11:41:07.484 [main] INFO  com.amazon.utils.DriverUtils - [Navigate] -> https://www.amazon.in
+2026-06-10 11:41:08.800 [main] INFO  com.amazon.pages.AmazonPage - Typing 'Galaxy' into search box
+2026-06-10 11:41:08.800 [main] INFO  com.amazon.utils.DriverUtils - [Type] 'Galaxy' -> By.xpath: //input[@id='twotabsearchtextbox']
+2026-06-10 11:41:13.251 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:41:17.229 [main] INFO  com.amazon.pages.AmazonPage - Clicking first product for keyword 'Galaxy'
+2026-06-10 11:41:17.229 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: (//a[contains(., 'Galaxy') and contains(., 'Mobile')])[1]
+2026-06-10 11:41:17.930 [main] INFO  com.amazon.pages.AmazonPage - Switching to child (product) window
+2026-06-10 11:41:17.933 [main] INFO  com.amazon.utils.DriverUtils - [Window] Parent window saved: 941D29C6E9F083EFE6AD987914BAC36D
+2026-06-10 11:41:17.960 [main] INFO  com.amazon.utils.DriverUtils - [Window] Switched to child window: 5D4EF945A39FA0CCBBD0296C426926CE
+2026-06-10 11:41:17.960 [main] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:41:17.960 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:41:24.986 [main] INFO  com.amazon.pages.AmazonPage - Fetching cart subtotal price
+2026-06-10 11:41:24.987 [main] INFO  com.amazon.utils.DriverUtils - [GetText] -> By.xpath: //*[@id='sw-subtotal']
+2026-06-10 11:41:25.114 [main] INFO  com.amazon.pages.AmazonPage - >>> Price for 'Galaxy' = Cart subtotal:  
+₹10,499
+00
+2026-06-10 11:41:25.115 [main] INFO  com.amazon.pages.AmazonPage - Closing child window and returning to parent
+2026-06-10 11:41:25.187 [main] INFO  com.amazon.utils.DriverUtils - [Window] Closed child window: 5D4EF945A39FA0CCBBD0296C426926CE
+2026-06-10 11:41:25.196 [main] INFO  com.amazon.utils.DriverUtils - [Window] Switched back to parent: 941D29C6E9F083EFE6AD987914BAC36D
+2026-06-10 11:41:25.196 [main] INFO  com.amazon.pages.AmazonPage - === Flow END  |  keyword: 'Galaxy' ===
+2026-06-10 11:41:25.505 [main] INFO  com.amazon.utils.DriverUtils - [Screenshot] Saved: screenshots/testAddGalaxyToCart_20260610_114125.png
+2026-06-10 11:41:25.509 [main] INFO  com.amazon.utils.DriverUtils - Quitting driver.
+2026-06-10 11:41:26.443 [main] INFO  com.amazon.utils.DriverUtils - Initializing ChromeDriver...
+2026-06-10 11:41:31.381 [main] INFO  com.amazon.utils.DriverUtils - ChromeDriver ready.
+2026-06-10 11:41:31.383 [main] INFO  com.amazon.pages.AmazonPage - === Flow START  |  keyword: 'iPhone' ===
+2026-06-10 11:41:31.383 [main] INFO  com.amazon.utils.DriverUtils - [Navigate] -> https://www.amazon.in
+2026-06-10 11:41:32.815 [main] INFO  com.amazon.pages.AmazonPage - Typing 'iPhone' into search box
+2026-06-10 11:41:32.816 [main] INFO  com.amazon.utils.DriverUtils - [Type] 'iPhone' -> By.xpath: //input[@id='twotabsearchtextbox']
+2026-06-10 11:41:38.153 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:41:43.294 [main] INFO  com.amazon.pages.AmazonPage - Clicking first product for keyword 'iPhone'
+2026-06-10 11:41:43.295 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: (//a[contains(., 'iPhone') and contains(., 'Mobile')])[1]
+2026-06-10 11:41:43.618 [main] INFO  com.amazon.pages.AmazonPage - Switching to child (product) window
+2026-06-10 11:41:43.621 [main] INFO  com.amazon.utils.DriverUtils - [Window] Parent window saved: 24EE35273660BF5BF3554BCB83CB99AC
+2026-06-10 11:41:43.661 [main] INFO  com.amazon.utils.DriverUtils - [Window] Switched to child window: 45475BF6C9F79B13E7CD55D4ACF56FC1
+2026-06-10 11:41:43.661 [main] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:41:43.661 [main] INFO  com.amazon.utils.DriverUtils - [Click] -> By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:41:53.706 [main] INFO  com.amazon.pages.AmazonPage - Fetching cart subtotal price
+2026-06-10 11:41:53.706 [main] INFO  com.amazon.utils.DriverUtils - [GetText] -> By.xpath: //*[@id='sw-subtotal']
+2026-06-10 11:41:53.812 [main] INFO  com.amazon.pages.AmazonPage - >>> Price for 'iPhone' = Cart subtotal:  
+₹89,900
+00
+2026-06-10 11:41:53.812 [main] INFO  com.amazon.pages.AmazonPage - Closing child window and returning to parent
+2026-06-10 11:41:53.929 [main] INFO  com.amazon.utils.DriverUtils - [Window] Closed child window: 45475BF6C9F79B13E7CD55D4ACF56FC1
+2026-06-10 11:41:53.939 [main] INFO  com.amazon.utils.DriverUtils - [Window] Switched back to parent: 24EE35273660BF5BF3554BCB83CB99AC
+2026-06-10 11:41:53.939 [main] INFO  com.amazon.pages.AmazonPage - === Flow END  |  keyword: 'iPhone' ===
+2026-06-10 11:41:54.186 [main] INFO  com.amazon.utils.DriverUtils - [Screenshot] Saved: screenshots/testAddIphoneToCart_20260610_114153.png
+2026-06-10 11:41:54.186 [main] INFO  com.amazon.utils.DriverUtils - Quitting driver.
+2026-06-10 11:45:46.441 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34] Initialising ChromeDriver...
+2026-06-10 11:45:46.442 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35] Initialising ChromeDriver...
+2026-06-10 11:45:54.242 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35] ChromeDriver ready.
+2026-06-10 11:45:54.248 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - === Flow START  |  keyword: 'iPhone' ===
+2026-06-10 11:45:54.249 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Navigate] → https://www.amazon.in
+2026-06-10 11:45:54.338 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34] ChromeDriver ready.
+2026-06-10 11:45:54.340 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - === Flow START  |  keyword: 'Galaxy' ===
+2026-06-10 11:45:54.341 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Navigate] → https://www.amazon.in
+2026-06-10 11:45:55.754 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Typing 'iPhone' into search box
+2026-06-10 11:45:55.755 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Type] attempt 1 → 'iPhone'
+2026-06-10 11:45:55.821 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Typing 'Galaxy' into search box
+2026-06-10 11:45:55.821 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Type] attempt 1 → 'Galaxy'
+2026-06-10 11:45:58.733 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Click] attempt 1 → By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:46:00.508 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Click] attempt 1 → By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:46:01.604 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Clicking first product for keyword 'Galaxy'
+2026-06-10 11:46:01.604 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Click] attempt 1 → By.xpath: (//a[contains(., 'Galaxy') and contains(., 'Mobile')])[1]
+2026-06-10 11:46:02.035 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Switching to child (product) window
+2026-06-10 11:46:02.038 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Parent saved: 5EBBD557A1D1330A1674BB1FFBA923A4
+2026-06-10 11:46:02.061 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Switched to child: E2A7843FBFAAC5D92EFF59F6A516BF1E
+2026-06-10 11:46:02.062 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:46:02.062 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Click] attempt 1 → By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:46:03.129 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Clicking first product for keyword 'iPhone'
+2026-06-10 11:46:03.130 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Click] attempt 1 → By.xpath: (//a[contains(., 'iPhone') and contains(., 'Mobile')])[1]
+2026-06-10 11:46:03.444 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Switching to child (product) window
+2026-06-10 11:46:03.447 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Window] Parent saved: 0B97EAEE6C5E123B14947760807FD85E
+2026-06-10 11:46:03.467 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Window] Switched to child: 9F06B9E5155449EB1FEF9316E9CEA6D7
+2026-06-10 11:46:03.467 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:46:03.468 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Click] attempt 1 → By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:46:08.624 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Fetching cart subtotal price
+2026-06-10 11:46:08.624 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][GetText] attempt 1 → By.xpath: //*[@id='sw-subtotal']
+2026-06-10 11:46:08.746 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - >>> Price for 'Galaxy' = Cart subtotal:  
+₹10,499
+00
+2026-06-10 11:46:08.747 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Closing child window and returning to parent
+2026-06-10 11:46:08.829 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Closed child: E2A7843FBFAAC5D92EFF59F6A516BF1E
+2026-06-10 11:46:08.857 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Back to parent: 5EBBD557A1D1330A1674BB1FFBA923A4
+2026-06-10 11:46:08.858 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - === Flow END  |  keyword: 'Galaxy' ===
+2026-06-10 11:46:09.182 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Screenshot] Saved: screenshots/testAddGalaxyToCart_T34_20260610_114608.png
+2026-06-10 11:46:09.186 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34] Quitting browser.
+2026-06-10 11:46:10.500 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Fetching cart subtotal price
+2026-06-10 11:46:10.501 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][GetText] attempt 1 → By.xpath: //*[@id='sw-subtotal']
+2026-06-10 11:46:10.552 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - >>> Price for 'iPhone' = Cart subtotal:  
+₹89,900
+00
+2026-06-10 11:46:10.552 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Closing child window and returning to parent
+2026-06-10 11:46:10.617 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Window] Closed child: 9F06B9E5155449EB1FEF9316E9CEA6D7
+2026-06-10 11:46:10.621 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Window] Back to parent: 0B97EAEE6C5E123B14947760807FD85E
+2026-06-10 11:46:10.622 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - === Flow END  |  keyword: 'iPhone' ===
+2026-06-10 11:46:10.821 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Screenshot] Saved: screenshots/testAddIphoneToCart_T35_20260610_114610.png
+2026-06-10 11:46:10.821 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35] Quitting browser.
+2026-06-10 11:48:41.257 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35] Initialising ChromeDriver...
+2026-06-10 11:48:41.256 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34] Initialising ChromeDriver...
+2026-06-10 11:48:49.175 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35] ChromeDriver ready.
+2026-06-10 11:48:49.183 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - === Flow START  |  keyword: 'iPhone' ===
+2026-06-10 11:48:49.183 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Navigate] → https://www.amazon.in
+2026-06-10 11:48:49.263 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34] ChromeDriver ready.
+2026-06-10 11:48:49.265 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - === Flow START  |  keyword: 'Galaxy' ===
+2026-06-10 11:48:49.265 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Navigate] → https://www.amazon.in
+2026-06-10 11:48:50.630 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Typing 'Galaxy' into search box
+2026-06-10 11:48:50.630 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Type] attempt 1 → 'Galaxy'
+2026-06-10 11:48:50.734 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Typing 'iPhone' into search box
+2026-06-10 11:48:50.735 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Type] attempt 1 → 'iPhone'
+2026-06-10 11:48:53.802 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Click] attempt 1 → By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:48:55.223 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Click] attempt 1 → By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:48:56.326 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Clicking first product for keyword 'iPhone'
+2026-06-10 11:48:56.327 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Click] attempt 1 → By.xpath: (//a[contains(., 'iPhone') and contains(., 'Mobile')])[1]
+2026-06-10 11:48:56.633 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Switching to child (product) window
+2026-06-10 11:48:56.637 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Window] Parent saved: 5BC830DD7E03BD71A3101929EB23B235
+2026-06-10 11:48:56.658 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Window] Switched to child: 308899FFED325318824B07A8B99D0DEF
+2026-06-10 11:48:56.658 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:48:56.660 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Click] attempt 1 → By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:48:58.615 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Clicking first product for keyword 'Galaxy'
+2026-06-10 11:48:58.616 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Click] attempt 1 → By.xpath: (//a[contains(., 'Galaxy') and contains(., 'Mobile')])[1]
+2026-06-10 11:48:59.037 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Switching to child (product) window
+2026-06-10 11:48:59.043 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Parent saved: AAB5D5FA00689C9052DCDDD72A14C1AB
+2026-06-10 11:48:59.077 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Switched to child: 36CA65ED0B844318E2FAF2455914B5CA
+2026-06-10 11:48:59.077 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:48:59.077 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Click] attempt 1 → By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:49:04.149 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Fetching cart subtotal price
+2026-06-10 11:49:04.149 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][GetText] attempt 1 → By.xpath: //*[@id='sw-subtotal']
+2026-06-10 11:49:04.314 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - >>> Price for 'iPhone' = Cart subtotal:  
+₹89,900
+00
+2026-06-10 11:49:04.315 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Closing child window and returning to parent
+2026-06-10 11:49:04.413 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Window] Closed child: 308899FFED325318824B07A8B99D0DEF
+2026-06-10 11:49:04.436 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Window] Back to parent: 5BC830DD7E03BD71A3101929EB23B235
+2026-06-10 11:49:04.437 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - === Flow END  |  keyword: 'iPhone' ===
+2026-06-10 11:49:04.807 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Screenshot] Saved: screenshots/testAddIphoneToCart_T35_20260610_114904.png
+2026-06-10 11:49:04.811 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35] Quitting browser.
+2026-06-10 11:49:07.649 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Fetching cart subtotal price
+2026-06-10 11:49:07.649 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][GetText] attempt 1 → By.xpath: //*[@id='sw-subtotal']
+2026-06-10 11:49:07.723 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - >>> Price for 'Galaxy' = Cart subtotal:  
+₹10,499
+00
+2026-06-10 11:49:07.724 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Closing child window and returning to parent
+2026-06-10 11:49:07.812 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Closed child: 36CA65ED0B844318E2FAF2455914B5CA
+2026-06-10 11:49:07.819 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Back to parent: AAB5D5FA00689C9052DCDDD72A14C1AB
+2026-06-10 11:49:07.819 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - === Flow END  |  keyword: 'Galaxy' ===
+2026-06-10 11:49:08.066 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Screenshot] Saved: screenshots/testAddGalaxyToCart_T34_20260610_114907.png
+2026-06-10 11:49:08.067 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34] Quitting browser.
+2026-06-10 11:49:43.281 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34] Initialising ChromeDriver...
+2026-06-10 11:49:43.281 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35] Initialising ChromeDriver...
+2026-06-10 11:49:51.625 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34] ChromeDriver ready.
+2026-06-10 11:49:51.635 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - === Flow START  |  keyword: 'Galaxy' ===
+2026-06-10 11:49:51.636 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Navigate] → https://www.amazon.in
+2026-06-10 11:49:51.709 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35] ChromeDriver ready.
+2026-06-10 11:49:51.711 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - === Flow START  |  keyword: 'iPhone' ===
+2026-06-10 11:49:51.711 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Navigate] → https://www.amazon.in
+2026-06-10 11:49:53.223 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Typing 'iPhone' into search box
+2026-06-10 11:49:53.224 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Type] attempt 1 → 'iPhone'
+2026-06-10 11:49:53.391 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Typing 'Galaxy' into search box
+2026-06-10 11:49:53.391 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Type] attempt 1 → 'Galaxy'
+2026-06-10 11:49:58.528 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Click] attempt 1 → By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:50:02.284 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Clicking first product for keyword 'Galaxy'
+2026-06-10 11:50:02.285 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Click] attempt 1 → By.xpath: (//a[contains(., 'Galaxy') and contains(., 'Mobile')])[1]
+2026-06-10 11:50:02.780 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Switching to child (product) window
+2026-06-10 11:50:02.786 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Parent saved: A34F90F23BDCE516901258E9C754717E
+2026-06-10 11:50:03.398 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Switched to child: 6E9642DDC2DB1224C074C3AA1907F442
+2026-06-10 11:50:03.398 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:50:03.400 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Click] attempt 1 → By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:50:06.637 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Click] attempt 1 → By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:50:09.344 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Clicking first product for keyword 'iPhone'
+2026-06-10 11:50:09.345 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Click] attempt 1 → By.xpath: (//a[contains(., 'iPhone') and contains(., 'Mobile')])[1]
+2026-06-10 11:50:09.766 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Switching to child (product) window
+2026-06-10 11:50:09.770 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Window] Parent saved: D180DBDA39C24715FE48647F7B2976DA
+2026-06-10 11:50:10.433 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Window] Switched to child: D4762CE96D119D7FE05DAB0E7C723943
+2026-06-10 11:50:10.434 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:50:10.434 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Click] attempt 1 → By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:50:10.689 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Fetching cart subtotal price
+2026-06-10 11:50:10.689 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][GetText] attempt 1 → By.xpath: //*[@id='sw-subtotal']
+2026-06-10 11:50:10.976 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - >>> Price for 'Galaxy' = Cart subtotal:  
+₹10,499
+00
+2026-06-10 11:50:10.977 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Closing child window and returning to parent
+2026-06-10 11:50:11.099 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Closed child: 6E9642DDC2DB1224C074C3AA1907F442
+2026-06-10 11:50:11.107 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Back to parent: A34F90F23BDCE516901258E9C754717E
+2026-06-10 11:50:11.107 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - === Flow END  |  keyword: 'Galaxy' ===
+2026-06-10 11:50:11.418 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34][Screenshot] Saved: screenshots/testAddGalaxyToCart_T34_20260610_115011.png
+2026-06-10 11:50:11.424 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-34] Quitting browser.
+2026-06-10 11:50:17.309 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Fetching cart subtotal price
+2026-06-10 11:50:17.310 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][GetText] attempt 1 → By.xpath: //*[@id='sw-subtotal']
+2026-06-10 11:50:17.474 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - >>> Price for 'iPhone' = Cart subtotal:  
+₹89,900
+00
+2026-06-10 11:50:17.475 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Closing child window and returning to parent
+2026-06-10 11:50:17.555 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Window] Closed child: D4762CE96D119D7FE05DAB0E7C723943
+2026-06-10 11:50:17.565 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Window] Back to parent: D180DBDA39C24715FE48647F7B2976DA
+2026-06-10 11:50:17.565 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - === Flow END  |  keyword: 'iPhone' ===
+2026-06-10 11:50:17.808 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35][Screenshot] Saved: screenshots/testAddIphoneToCart_T35_20260610_115017.png
+2026-06-10 11:50:17.809 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-35] Quitting browser.
+2026-06-10 11:51:39.940 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34] Initialising ChromeDriver...
+2026-06-10 11:51:39.940 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33] Initialising ChromeDriver...
+2026-06-10 11:51:48.857 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33] ChromeDriver ready.
+2026-06-10 11:51:48.865 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - === Flow START  |  keyword: 'Galaxy' ===
+2026-06-10 11:51:48.866 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33][Navigate] → https://www.amazon.in
+2026-06-10 11:51:49.085 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34] ChromeDriver ready.
+2026-06-10 11:51:49.087 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - === Flow START  |  keyword: 'iPhone' ===
+2026-06-10 11:51:49.087 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34][Navigate] → https://www.amazon.in
+2026-06-10 11:51:50.631 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Typing 'iPhone' into search box
+2026-06-10 11:51:50.632 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34][Type] attempt 1 → 'iPhone'
+2026-06-10 11:51:50.707 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Typing 'Galaxy' into search box
+2026-06-10 11:51:50.708 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33][Type] attempt 1 → 'Galaxy'
+2026-06-10 11:51:53.933 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33][Click] attempt 1 → By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:51:54.086 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34][Click] attempt 1 → By.xpath: //input[@id='nav-search-submit-button']
+2026-06-10 11:51:57.012 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Clicking first product for keyword 'iPhone'
+2026-06-10 11:51:57.013 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34][Click] attempt 1 → By.xpath: (//a[contains(., 'iPhone') and contains(., 'Mobile')])[1]
+2026-06-10 11:51:57.238 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Clicking first product for keyword 'Galaxy'
+2026-06-10 11:51:57.239 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33][Click] attempt 1 → By.xpath: (//a[contains(., 'Galaxy') and contains(., 'Mobile')])[1]
+2026-06-10 11:51:57.400 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Switching to child (product) window
+2026-06-10 11:51:57.403 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Parent saved: BE31EDB68DC2013E5EFAF3F5FE83EB1B
+2026-06-10 11:51:57.430 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Switched to child: 3D5ED00A6C9ECAE7F802EA3329271469
+2026-06-10 11:51:57.430 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:51:57.430 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34][Click] attempt 1 → By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:51:58.070 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Switching to child (product) window
+2026-06-10 11:51:58.074 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33][Window] Parent saved: FC9F36F7E195EE52D507EFADC207DF41
+2026-06-10 11:51:58.138 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33][Window] Switched to child: D6D81FF10823890A5D85C11273B498D9
+2026-06-10 11:51:58.138 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Clicking Add to Cart
+2026-06-10 11:51:58.139 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33][Click] attempt 1 → By.xpath: //div[@id='desktop_qualifiedBuyBox']//input[@id='add-to-cart-button']
+2026-06-10 11:52:04.487 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Fetching cart subtotal price
+2026-06-10 11:52:04.488 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33][GetText] attempt 1 → By.xpath: //*[@id='sw-subtotal']
+2026-06-10 11:52:04.690 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - >>> Price for 'Galaxy' = Cart subtotal:  
+₹10,499
+00
+2026-06-10 11:52:04.691 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - Closing child window and returning to parent
+2026-06-10 11:52:04.702 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Fetching cart subtotal price
+2026-06-10 11:52:04.703 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34][GetText] attempt 1 → By.xpath: //*[@id='sw-subtotal']
+2026-06-10 11:52:04.836 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33][Window] Closed child: D6D81FF10823890A5D85C11273B498D9
+2026-06-10 11:52:04.842 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33][Window] Back to parent: FC9F36F7E195EE52D507EFADC207DF41
+2026-06-10 11:52:04.843 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.pages.AmazonPage - === Flow END  |  keyword: 'Galaxy' ===
+2026-06-10 11:52:04.850 [TestNG-test-Amazon Cart Tests-1] INFO  com.amazon.utils.DriverUtils - [Thread-33] Quitting browser.
+2026-06-10 11:52:05.060 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - >>> Price for 'iPhone' = Cart subtotal:  
+₹89,900
+00
+2026-06-10 11:52:05.061 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - Closing child window and returning to parent
+2026-06-10 11:52:05.151 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Closed child: 3D5ED00A6C9ECAE7F802EA3329271469
+2026-06-10 11:52:05.159 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34][Window] Back to parent: BE31EDB68DC2013E5EFAF3F5FE83EB1B
+2026-06-10 11:52:05.159 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.pages.AmazonPage - === Flow END  |  keyword: 'iPhone' ===
+2026-06-10 11:52:05.161 [TestNG-test-Amazon Cart Tests-2] INFO  com.amazon.utils.DriverUtils - [Thread-34] Quitting browser.
